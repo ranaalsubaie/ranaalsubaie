@@ -1,4 +1,4 @@
-# Hi, I'm Rana 👋
+# Hi, I'm Rana 
 
 I'm a Computer Science student at King Faisal University, interested in software development and artificial intelligence.
 
